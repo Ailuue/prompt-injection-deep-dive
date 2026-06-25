@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets — never commit your real keys
+.env
+
+# Editor / local history
+.history/
+.vscode/
